@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='example_pkg',
+    name='caesar_pkg',
     version='0.0.1',
     author='Senthil Palanivelu',
     author_email='senthilcaesar@gmail.com',
